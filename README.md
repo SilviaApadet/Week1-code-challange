@@ -42,17 +42,43 @@ The challenges provided are stated as below;
 # Creating a speed detector
 
 In this challenge we are to detect the speed of the car ,we have to write a program which shows if a driver exceeds the speed required what are the possible consequences he /she will have to face 
+
 In this challange we will use the if statement
+
 We set out constant speed of the car to be 70km/h
+
 //syntax
+
 function(){
+
     if(variablename = variable data){
+
         return " ";
+
     }
+
     const count = function();
+
     if(variablename > variable data){
+
         return " ";
+
     }
+
     return ` `;
 
 }
+
+# Net Salary Calculator
+
+In this challenge we get to create a program which calculates the amount an employee earns.
+
+We get to evaluate the Basic salary and the benefitss the employee gets.
+
+we get to calculate the net salary and the gross salary after tax deductions.
+
+~we get to calculate the basic salary and total benefits.
+
+~we get to calculate the Paye tax in each salary category given the different PAYE tax rates.
+
+~we calculate the amount of salary the employee gets after the tax deductions.
