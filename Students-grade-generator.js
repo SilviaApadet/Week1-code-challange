@@ -8,8 +8,10 @@
 //else{
     //code if neither condition 1 nor condition 2 is true
 //}
+//Declaration of Students marks
+marks ranges between o to 100;
 let marks = 80;
-if(marks >79){
+if(marks > 79){
     console.log("Grade: A");
 }
 else if(marks >=60){
