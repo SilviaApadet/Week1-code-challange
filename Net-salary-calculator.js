@@ -53,3 +53,15 @@ const nhif_deductions +function (basic_salary){
     return 150;
 } else return 'Input Salary!'
 }
+
+//function to calculate NSSF
+const nssf_deductions = function (basic_salary){
+    if (basic_salary <=7000){
+        return (basic_salary * 0.06);
+    }
+}
+const nssf_deductions = function (basic_salary){
+    if (basic_salary  7001 && basic_salary <= 36000) {
+        return basic_salary * 0.06;)
+    
+}else {return 0 }
